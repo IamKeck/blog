@@ -1,0 +1,5 @@
+src/*
+*.zip
+.python-version
+!src/main.py
+!src/pip_requests.txt
