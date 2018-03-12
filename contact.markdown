@@ -2,4 +2,4 @@
 title: Contact
 ---
 
-TODO: そのうち書く
+twitter: [\@keck_init](https://twitter.com/keck_init)
